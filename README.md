@@ -2,7 +2,7 @@
 
 Created a RESTful API for a task management system. The API support the following functionalities:
 
-• User Registration and Authentication
-• CRUD operations for tasks (Create, Read, Update, Delete)
-• Task assignment to users
-• Filtering and searching tasks
+1) User Registration and Authentication
+2)CRUD operations for tasks (Create, Read, Update, Delete)
+3) Task assignment to users
+4)Filtering and searching tasks
